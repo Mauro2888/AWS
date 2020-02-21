@@ -6,8 +6,8 @@ aws cloudformation create-stack --stack-name MyStack --template-body file://MyCl
 
 **./create.sh ${params1} ${params2} ${params3}**
 
-params1 = name of the out stack
-params2 = .yml yaml configuration stack
-params2 = .json yaml parameters
+* params1 = out stack name
+* params2 = .yml yaml configuration stack
+* params2 = .json yaml parameters
 
 
