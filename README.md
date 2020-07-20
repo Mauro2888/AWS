@@ -1,4 +1,4 @@
-# AWS
+# AWS RESOURCES
 Aws scripts repo that contains all basic scripts for perform automatically the creation/update for the cloud formation stack
 
 The script run
@@ -10,4 +10,4 @@ The script run
 * params2 = .yml yaml configuration stack
 * params2 = .json yaml parameters
 
-
+AWS ENCRYPTION
