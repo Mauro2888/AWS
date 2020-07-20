@@ -10,4 +10,9 @@ The script run
 * params2 = .yml yaml configuration stack
 * params2 = .json yaml parameters
 
-AWS ENCRYPTION
+# AWS ENCRYPTION
+
+aws configure in EC2 instance
+secret and acccess key
+add region
+With a user that have key copy the key and complete the commands
